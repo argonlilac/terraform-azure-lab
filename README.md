@@ -1,4 +1,3 @@
-# terraform-azure-lab
 # Terraform Azure Lab
 
 A hands-on proof of concept for learning Terraform, Azure infrastructure as code, and CI workflows with GitHub Actions.
